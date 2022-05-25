@@ -160,12 +160,11 @@ class TesseractActivity : AppCompatActivity() {
                             }
                             tessBaseAPI?.utF8Text ?: ""
                         }
-
+                        val result = resultDeferred.await()
                         withContext(Dispatchers.Main) {
                             button?.text = "텍스트 인식 완료!"
-                            textView?.text = resultDeferred.await()
+                            textView?.text = result
                         }
-
                     }
                     Log.d(TAG, msg)
                     bindPreview()
