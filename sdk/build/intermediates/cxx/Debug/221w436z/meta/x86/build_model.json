@@ -1,0 +1,172 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/.cxx/Debug/221w436z/x86",
+  "soFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx/Debug/221w436z/obj/x86",
+  "soRepublishFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cmake/debug/obj/x86",
+  "abiPlatformVersion": 21,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx/Debug/221w436z/obj",
+    "soRepublishFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cmake/debug/obj",
+    "cxxBuildFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/.cxx/Debug/221w436z",
+    "intermediatesFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx/Debug/221w436z",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/.cxx",
+      "intermediatesBaseFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates",
+      "intermediatesFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx",
+      "gradleModulePathName": ":sdk",
+      "moduleRootFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk",
+      "moduleBuildFile": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build.gradle",
+      "makeFile": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/libcxx_helper/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/t1100296/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.18.1",
+        "ninjaExe": "/Users/t1100296/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample",
+        "sdkFolder": "/Users/t1100296/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/.cxx/Debug/221w436z/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "221w436z73z6k2d1t6o5b5q3k2vf4e5a2hw686r214u3h5qs6vw1hb5fy",
+  "configurationArguments": [
+    "-H/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/libcxx_helper",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d21",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DANDROID_ABI\u003dx86",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DANDROID_NDK\u003d/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/t1100296/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx/Debug/221w436z/obj/x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx/Debug/221w436z/obj/x86",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/.cxx/Debug/221w436z/x86",
+    "-GNinja",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "/Users/t1100296/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so"
+}
