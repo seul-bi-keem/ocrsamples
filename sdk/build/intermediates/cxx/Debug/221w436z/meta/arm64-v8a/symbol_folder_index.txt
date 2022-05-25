@@ -1,1 +1,0 @@
-/Users/t1100296/AndroidStudioProjects/tesseractsample/sdk/build/intermediates/cxx/Debug/221w436z/obj/arm64-v8a
